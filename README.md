@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Abdüssamed
-I am student of software engineering.
+###Merhaba Adım Abdüssamed
+Yazılım Mühendisi Öğrencisi 2.Sınıf
 
-Skills: python/java/c
+Beceriler: python/C#/Java+Spring Boot
 
 
 
