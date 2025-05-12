@@ -1,4 +1,4 @@
-###Merhaba Adım Abdüssamed
+Merhaba Adım Abdüssamed
 Yazılım Mühendisi Öğrencisi 2.Sınıf
 
 Beceriler: python/C#/Java+Spring Boot
